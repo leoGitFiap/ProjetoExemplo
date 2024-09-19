@@ -21,3 +21,25 @@ console.log(nome3)
 // Declaração vazia:
 let disciplina=null
 console.log(disciplina)
+
+// TIPOS DE VARIÁVEIS:
+
+// INTEIROS
+let idade=18;
+console.log(idade)
+
+// FLUTUANTES OU COM CASAS DECIMAIS
+let valor=6.42;
+console.log(valor)
+
+// STRING (TEXTOS)
+let texto="fiap";
+console.log(texto)
+
+// BOOLEANDS - VERDADEIRO OU FALSO
+let aluno=true;
+console.log(aluno)
+
+// ARRAY - CONJUNTO DE INFORMAÇÕES
+let tecnologias=["JAVA", "CSS", "HTML"];
+console.log(tecnologias)
